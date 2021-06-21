@@ -1,0 +1,29 @@
+.productos{
+    width: 1000px;
+    margin: 20px auto;
+}
+
+
+#presentacion{
+margin-left: 40px;
+}
+
+#foto{
+    margin-top: 40px;
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    float: left;
+}
+
+#foto img{
+    width: 400px;
+    height: 500px;
+}
+
+#info{
+    width: 300px;
+    float: left;
+}
+
+
