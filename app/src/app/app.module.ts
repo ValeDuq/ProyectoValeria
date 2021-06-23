@@ -10,7 +10,7 @@ import { VentasComponent } from './ventas/ventas/ventas.component';
 import { EmpleadoComponent } from './empleado/empleado/empleado.component';
 import { DetalleComponent } from './detalle/detalle/detalle.component';
 import { ListaComponent } from './lista/lista.component';
-import {HttpClientModule} from '@angular/common/http';
+
 
 @NgModule({
   declarations: [
@@ -26,7 +26,7 @@ import {HttpClientModule} from '@angular/common/http';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { LibrosDetalle } from 'src/app/clases/libros-detalle';
 
 @Component({
   selector: 'app-detalle',
@@ -6,7 +7,8 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./detalle.component.css']
 })
 export class DetalleComponent implements OnInit {
-@Input() libro:any
+@Input() libro:LibrosDetalle = new LibrosDetalle();
+
   constructor() { }
 
   ngOnInit(): void {

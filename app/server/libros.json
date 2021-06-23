@@ -1,0 +1,61 @@
+{
+    "libros":  [
+    {
+    "imagenUrl":"https://www.bookshop.com.uy/media/catalog/product/cache/1/thumbnail/400x/17f82f742ffe127f42dca9de82fb58b1/9/7/9788417430641.jpg",
+    "nombre":"Persuasión",
+    "código":"AB23",
+    "autor":"Jane Austen",
+    "reseña":"Aparecida de manera póstuma en 1818, es un perfecto compendio de las preocupaciones de la autora británica. En ella Austen nos ofrece una auténtica obra de madurez y una brillante reflexión sobre el paso del tiempo.",
+    "precio":"1000",
+    "stock":"15"
+  },
+
+  {
+    "imagenUrl":"https://www.bookshop.com.uy/media/catalog/product/cache/1/thumbnail/400x/17f82f742ffe127f42dca9de82fb58b1/9/7/9788491053996.jpg",
+    "nombre":"Cumbres borrascosas",
+    "código":"AD87",
+    "autor":"Emily Brontë",
+    "reseña":"Situada en los sombríos páramos de Yorkshire, esta novela constituye una visión metafísica del destino, la obsesión, la pasión y la venganza.",
+    "precio":"400",
+    "stock":"10"
+  },
+  {
+    "imagenUrl":"https://www.bookshop.com.uy/media/catalog/product/cache/1/thumbnail/400x/17f82f742ffe127f42dca9de82fb58b1/9/7/9789875669338.png",
+    "nombre":"La caída de los gigantes",
+    "código":"FG83",
+    "autor":"Ken Follet",
+    "reseña":"Desde Washington hasta San Petersburgo, Ken Follett nos ofrece aquí, en su novela más ambiciosa, un esmerado retrato de una época y de las pasiones que atravesaron la vida de sus personajes.",
+    "precio":"550",
+    "stock":"5"
+  },
+
+  {
+    "imagenUrl":"https://www.bookshop.com.uy/media/catalog/product/cache/1/thumbnail/400x/17f82f742ffe127f42dca9de82fb58b1/d/e/despues_1.jpg",
+    "nombre":"Después",
+    "código":"AF78",
+    "autor":"Stephen King",
+    "reseña":"Una novela inquietante y emotiva sobre la inocencia perdida y las pruebas que hay que superar para diferenciar el bien del mal.",
+    "precio":"800",
+    "stock":"10"
+  },
+  {
+    "imagenUrl":"https://www.bookshop.com.uy/media/catalog/product/cache/1/thumbnail/400x/17f82f742ffe127f42dca9de82fb58b1/9/7/9788466346238.jpg",
+    "nombre":"La villa de las telas",
+    "código":"SR45",
+    "autor":"Anne Jacobs",
+    "reseña":"Una familia industrial a principios del siglo XX: celos, intrigas, secretos oscuros y un gran amor.",
+    "precio":"450",
+    "stock":"25"
+  },
+
+  {
+    "imagenUrl":"https://www.bookshop.com.uy/media/catalog/product/cache/1/thumbnail/400x/17f82f742ffe127f42dca9de82fb58b1/3/1/311491_portada_la-vida-ese-parentesis_mario-benedetti_201911061841.jpg",
+    "nombre":"La vida ese paréntesis",
+    "código":"YU67",
+    "autor":"Mario Benedetti",
+    "reseña":"Pequeñas prosas y poemas en los que el autor aparece más cercano que nunca, pronunciando en voz alta preguntas para las que acaso no hay respuesta.",
+    "precio":"390",
+    "stock":"6"
+  }
+  ]
+}
